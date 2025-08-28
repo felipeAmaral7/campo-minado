@@ -22,7 +22,7 @@ No terminal:
 gcc campo_minado.c -o campo_minado
 ./campo_minado
 
-Windows (MinGW)
+### Windows (MinGW)
 gcc campo_minado.c -o campo_minado.exe
 campo_minado.exe
 

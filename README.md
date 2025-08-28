@@ -1,5 +1,3 @@
-# campo-minado
-
 # 🎮 Campo Minado em C
 
 Um simples jogo de **Campo Minado** implementado em C para rodar direto no terminal.  
